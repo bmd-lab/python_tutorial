@@ -10,4 +10,4 @@ Introductory tutorials for new students
 | [Tutorial 2](https://github.com/bmd-lab/python_tutorial/wiki/tutorial-2) IDE |
 | [Tutorial 3](https://github.com/bmd-lab/python_tutorial/wiki/tutorial-3) Navigating with IDE|
 | [Tutorial 4](https://github.com/bmd-lab/python_tutorial/wiki/tutorial-4) Basic data types in python |
-| [Tutorial 5](https://github.com/bmd-lab/python_tutorial/wiki/tutorial-5) Tem |
+| [Tutorial 5](https://github.com/bmd-lab/python_tutorial/wiki/tutorial-5) Branches and loops |
